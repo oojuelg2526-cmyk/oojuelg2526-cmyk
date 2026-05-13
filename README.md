@@ -1,6 +1,6 @@
 <div align="left">
 
-# ⚔️ Óscar Ojuel
+# ⚔️ Óscar Ojuel González
 
 ### Estudiant de Desenvolupament d'Aplicacions Web
 **Politècnics Barcelona · DAW 2025/2026**
