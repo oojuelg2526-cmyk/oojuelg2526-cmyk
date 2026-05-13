@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
 
 # ⚔️ Óscar Ojuel González
 **User name: oojuelg2526-cmyk**
